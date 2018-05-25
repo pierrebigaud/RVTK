@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK", "VRTK.csproj", "{DEF9D6D5-AB77-C628-8150-C51F3DFFE2E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.Editor", "VRTK.Editor.csproj", "{D2A220F9-0C38-D669-041F-A1D931655680}"
